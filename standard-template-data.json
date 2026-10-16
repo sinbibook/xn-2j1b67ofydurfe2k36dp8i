@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-10-16T07:08:44.315934161Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-10-16T07:09:39.583641846Z",
     "templateType": "full_banner_wipe",
     "propertyId": "01a0ad18-7a91-7894-b237-664633ea7991",
     "homepageId": "01a14344-3053-70cf-9c85-2c515b9b49d3"
@@ -1390,7 +1390,7 @@
                     "id": "01a14387-d9ec-7207-951d-37333a60506d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/index_gallery/1792134338637-8012bl73jx.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "창문 사이로 스며드는 햇살",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1398,7 +1398,7 @@
                     "id": "01a14387-d9d8-7f89-8df4-83e077810232",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/index_gallery/1792134338639-xxjvyf24ym.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "함께 나누는 이야기",
                     "isSelected": true,
                     "blockId": null
                   },
