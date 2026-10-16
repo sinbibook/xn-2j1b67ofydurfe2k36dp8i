@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-10-16T07:05:40.466857644Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-10-16T07:07:35.395080288Z",
     "templateType": "full_banner_wipe",
     "propertyId": "01a0ad18-7a91-7894-b237-664633ea7991",
     "homepageId": "01a14344-3053-70cf-9c85-2c515b9b49d3"
@@ -1337,7 +1337,16 @@
               },
               "closing": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a14389-98ab-770c-bba6-cdffb821ee2e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/index_closing/1792134453120-y9tz2aa4kd.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
@@ -1375,7 +1384,7 @@
                 "description": "눈 앞에 펼쳐지는 청량한 바다와 따뜻한 빛이 드는 공간에서\n서두르지 않는 하루를 보내세요."
               },
               "gallery": {
-                "title": "",
+                "title": "Coaffebada Place",
                 "images": [
                   {
                     "id": "01a14387-d9ec-7207-951d-37333a60506d",
@@ -1420,7 +1429,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "삼척 코아페바다펜션만의 특별한 공간"
               },
               "signature": {
                 "title": "",
