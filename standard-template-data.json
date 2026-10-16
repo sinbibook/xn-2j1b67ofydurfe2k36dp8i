@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-10-16T07:11:34.961343612Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-10-16T07:12:33.422532379Z",
     "templateType": "full_banner_wipe",
     "propertyId": "01a0ad18-7a91-7894-b237-664633ea7991",
     "homepageId": "01a14344-3053-70cf-9c85-2c515b9b49d3"
@@ -1422,7 +1422,7 @@
                     "id": "01a14387-d983-7778-9ae9-b6f4f00d9b1a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/index_gallery/1792134338635-j6ogn5fwnu.jpg",
                     "sortOrder": 4,
-                    "description": "",
+                    "description": "하루 끝, 편안한 힐링",
                     "isSelected": true,
                     "blockId": null
                   }
