@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-10-16T07:09:39.583641846Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-10-16T07:10:22.718643794Z",
     "templateType": "full_banner_wipe",
     "propertyId": "01a0ad18-7a91-7894-b237-664633ea7991",
     "homepageId": "01a14344-3053-70cf-9c85-2c515b9b49d3"
@@ -1406,13 +1406,13 @@
                     "id": "01a14387-da36-7681-9433-54229c0ff55b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/index_gallery/1792134338642-mk8nb296jj.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "초록 곁, 잠시 쉬어가는 시간",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
-                    "id": "01a1438a-a6f7-73e8-bb5e-69133dae492e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/index_gallery/1792134522152-iqjwtwb0as.jpg",
+                    "id": "01a1438c-26f1-79ca-8dc8-012094fe6cae",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/index_gallery/1792134620633-6k1cj1edfb.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
