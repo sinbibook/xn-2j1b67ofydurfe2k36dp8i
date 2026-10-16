@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-10-16T07:14:25.678722090Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-10-16T07:16:09.001849430Z",
     "templateType": "full_banner_wipe",
     "propertyId": "01a0ad18-7a91-7894-b237-664633ea7991",
     "homepageId": "01a14344-3053-70cf-9c85-2c515b9b49d3"
@@ -1562,13 +1562,31 @@
                 },
                 {
                   "title": "",
-                  "images": [ ],
+                  "images": [
+                    {
+                      "id": "01a14391-6f37-7b7f-8797-5fea2c0f3c51",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/main_about/1792134966412-jtl4606i89.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "e6598bd4-72f2-4dbd-8314-131757647a42"
+                    }
+                  ],
                   "blockId": "e6598bd4-72f2-4dbd-8314-131757647a42",
                   "description": ""
                 },
                 {
-                  "title": "",
-                  "images": [ ],
+                  "title": "Cafe",
+                  "images": [
+                    {
+                      "id": "01a14391-6f2d-769a-a61b-37ac8aadb5b0",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/main_about/1792134966413-s182vlg85o.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "08a1f3b3-3732-43d7-b7fe-94924a3f17a5"
+                    }
+                  ],
                   "blockId": "08a1f3b3-3732-43d7-b7fe-94924a3f17a5",
                   "description": ""
                 }
