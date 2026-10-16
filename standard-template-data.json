@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-10-16T07:10:22.718643794Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-10-16T07:10:59.594329965Z",
     "templateType": "full_banner_wipe",
     "propertyId": "01a0ad18-7a91-7894-b237-664633ea7991",
     "homepageId": "01a14344-3053-70cf-9c85-2c515b9b49d3"
@@ -1414,7 +1414,7 @@
                     "id": "01a1438c-26f1-79ca-8dc8-012094fe6cae",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/index_gallery/1792134620633-6k1cj1edfb.jpg",
                     "sortOrder": 3,
-                    "description": "",
+                    "description": "온전한 휴식의 시간",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1422,7 +1422,7 @@
                     "id": "01a14387-d983-7778-9ae9-b6f4f00d9b1a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a14344-3053-70cf-9c85-2c515b9b49d3/index_gallery/1792134338635-j6ogn5fwnu.jpg",
                     "sortOrder": 4,
-                    "description": "온전한 휴식",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   }
